@@ -1,0 +1,12 @@
+{
+  "TEXT_EDITOR_HEADING": {
+    "message": "Enter text",
+    "description": "A heading for text editor",
+    "component": "TextEditor"
+  },
+  "EMBED_LIB_WARNING_TEXT": {
+    "message": "This page embeds Alpheios directly. The Alpheios browser extension is not needed for it and will be deactivated until you navigate away from the page.",
+    "description": "A message that is shown when an Alpheios extension is disabled due to embedded library presence",
+    "component": "EmbedLibWarning"
+  }
+}

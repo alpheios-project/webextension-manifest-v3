@@ -1,0 +1,37 @@
+{
+    "CONTEXT_MENU_ACTIVATE": {
+      "message": "Activate",
+      "description": "Context Menu titles",
+      "component": "ContextMenu"
+    },
+    "CONTEXT_MENU_DEACTIVATE": {
+      "message": "Deactivate",
+      "description": "Context Menu titles",
+      "component": "ContextMenu"
+    },
+    "CONTEXT_MENU_INFO": {
+      "message": "Info",
+      "description": "Context Menu titles",
+      "component": "ContextMenu"
+    },
+    "CONTEXT_MENU_DISABLED": {
+      "message": "(Alpheios Extension Disabled For Page)",
+      "description": "Context Menu titles",
+      "component": "ContextMenu"
+    },
+    "LABEL_BROWSERACTION_DEACTIVATE": {
+      "message": "Deactivate Alpheios",
+      "description": "Deactivate browser action title",
+      "component": "UI"
+    },
+    "LABEL_BROWSERACTION_ACTIVATE": {
+      "message": "Activate Alpheios",
+      "description": "Activate browser action title",
+      "component": "UI"
+    },
+    "LABEL_BROWSERACTION_DISABLED": {
+      "message": "(Alpheios Extension Disabled For Page)",
+      "description": "Disabled browser action title",
+      "component": "UI"
+    }
+}
